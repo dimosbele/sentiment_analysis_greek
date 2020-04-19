@@ -13,15 +13,15 @@ Political sentiment analysis using social media content has recently attracted s
 2) gather_tweets - <br>
 2.1 gather_tweets.ipynb - <br>
 2.2 /data - the dataset with the gathered tweets (tweets.pkl)<br>
-<br>
+
 3) preprocess_tweets - <br>
 3.1. fix_tweets.ipynb - <br>
 3.2. tweets_syntax.ipynb - <br>
 3.3. lexiconsTofeatures.ipynb - <br>
-<br>
+
 4) predictions - <br>
 4.1. predictions.ipynb - <br>
-<br>
+
 5) lexicons -<br>
 5.1. fix_lexicons.ipynb <br>
 5.2. GrAFS_expanded.csv <br>
