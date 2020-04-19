@@ -5,5 +5,28 @@ Political sentiment analysis using social media content has recently attracted s
 
 ## Folder analysis
 
-1. modeling - The folder contains the notebook in which the classifier model is created based on the data/df_final.pkl file
-2. preprocess_tweets - 
+1) modeling - The folder contains the notebook in which the classifier model is created based on the data/df_final.pkl file
+1.1. modeling.ipynb - Creating the model
+1.2. /model - The created model (clf.sav)
+1.3. /data - The trainset & testset (df_final.pkl)
+
+2) gather_tweets - 
+2.1 gather_tweets.ipynb - 
+2.2 /data - the dataset with the gathered tweets (tweets.pkl)
+
+3) preprocess_tweets - 
+3.1. fix_tweets.ipynb - 
+3.2. tweets_syntax.ipynb - 
+3.3. lexiconsTofeatures.ipynb - 
+
+4) predictions - 
+4.1. predictions.ipynb - 
+
+5) lexicons -
+5.1. fix_lexicons.ipynb
+5.2. GrAFS_expanded.csv
+5.3. KBL.tsv
+5.4. greek_sentiment_lexicon.xlsx
+5.6 /fixed_lexicons - the 3 above lexicons after preprocessing
+
+
