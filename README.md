@@ -7,26 +7,26 @@ Political sentiment analysis using social media content has recently attracted s
 
 1) modeling - The folder contains the notebook in which the classifier model is created based on the data/df_final.pkl file <br>
 1.1. modeling.ipynb - Creating the model <br>
-1.2. /model - The created model (clf.sav)
-1.3. /data - The trainset & testset (df_final.pkl)
-
-2) gather_tweets - 
-2.1 gather_tweets.ipynb - 
-2.2 /data - the dataset with the gathered tweets (tweets.pkl)
-
-3) preprocess_tweets - 
-3.1. fix_tweets.ipynb - 
-3.2. tweets_syntax.ipynb - 
-3.3. lexiconsTofeatures.ipynb - 
-
-4) predictions - 
-4.1. predictions.ipynb - 
-
-5) lexicons -
-5.1. fix_lexicons.ipynb
-5.2. GrAFS_expanded.csv
-5.3. KBL.tsv
-5.4. greek_sentiment_lexicon.xlsx
-5.6 /fixed_lexicons - the 3 above lexicons after preprocessing
+1.2. /model - The created model (clf.sav) <br>
+1.3. /data - The trainset & testset (df_final.pkl)<br>
+<br>
+2) gather_tweets - <br>
+2.1 gather_tweets.ipynb - <br>
+2.2 /data - the dataset with the gathered tweets (tweets.pkl)<br>
+<br>
+3) preprocess_tweets - <br>
+3.1. fix_tweets.ipynb - <br>
+3.2. tweets_syntax.ipynb - <br>
+3.3. lexiconsTofeatures.ipynb - <br>
+<br>
+4) predictions - <br>
+4.1. predictions.ipynb - <br>
+<br>
+5) lexicons -<br>
+5.1. fix_lexicons.ipynb <br>
+5.2. GrAFS_expanded.csv <br>
+5.3. KBL.tsv <br>
+5.4. greek_sentiment_lexicon.xlsx <br>
+5.6 /fixed_lexicons - the 3 above lexicons after preprocessing <br>
 
 
