@@ -9,7 +9,7 @@ Political sentiment analysis using social media content has recently attracted s
 1.1. modeling.ipynb - Creating the model <br>
 1.2. /model - The created model (clf.sav) <br>
 1.3. /data - The trainset & testset (df_final.pkl)<br>
-<br>
+
 2) gather_tweets - <br>
 2.1 gather_tweets.ipynb - <br>
 2.2 /data - the dataset with the gathered tweets (tweets.pkl)<br>
