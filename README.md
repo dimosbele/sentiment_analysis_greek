@@ -5,8 +5,8 @@ Political sentiment analysis using social media content has recently attracted s
 
 ## Folder analysis
 
-1) modeling - The folder contains the notebook in which the classifier model is created based on the data/df_final.pkl file
-1.1. modeling.ipynb - Creating the model
+1) modeling - The folder contains the notebook in which the classifier model is created based on the data/df_final.pkl file /n
+1.1. modeling.ipynb - Creating the model /n
 1.2. /model - The created model (clf.sav)
 1.3. /data - The trainset & testset (df_final.pkl)
 
